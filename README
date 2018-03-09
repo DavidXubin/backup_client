@@ -1,0 +1,6 @@
+Implement a backup client:
+- Create patch, consolidate baseline and patch by bindiff algorithm
+- Upload file data to AWS s3 and download file data from AWS s3
+- Post file metadata to private system
+
+Later plan to use self-developed object storage as backend storage 
